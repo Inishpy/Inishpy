@@ -49,7 +49,7 @@
 
 ## 💼 Work Experience
 
-**AI Research Intern** | Qualwebs Indore
+**AI Research Intern** | Qualwebs Bengaluru
 - Edge device deployment & RAG pipelines
 - OCR for Hindi characters (85% → 95%+ accuracy)
 - Skin analysis & product recommendation systems
