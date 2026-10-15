@@ -16,9 +16,9 @@
 
 ## 🔬 Current Research
 
-**Training-Free Adapter Routing via Representation Alignment** (EMNLP 2026, Under Review)
+**Training-Free Adapter Routing via Representation Alignment** (Under Review)
 - Novel multi-adapter routing method for LLMs using cosine-based matching
-- Tested on FLAN-v2 and out-of-distribution tasks with LLaMA-2-7B/13B
+- Tested on FLAN-v2 and out-of-distribution tasks with LLaMA-2-7B/13B, LLaMA-3.1-8B
 
 **Master's Thesis: Conversational Interfaces to Edge Devices**
 - Privacy-first agentic AI systems on resource-constrained devices
