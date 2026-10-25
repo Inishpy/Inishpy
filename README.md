@@ -24,17 +24,6 @@
 - Privacy-first agentic AI systems on resource-constrained devices
 - Sub-billion parameter language models for smartphones and wearables
 
----
-
-## 💻 Technical Stack
-
-**Languages:** Python, JavaScript, Java, C, SQL
-
-**AI/ML:** PyTorch, Transformers, vLLM, NLTK, Numpy, Pandas, OpenCV, RAG, Vector Databases (ChromaDB, pgvector, FAISS)
-
-**Web/Backend:** Next.js, React.js, Node.js, Express.js, FastAPI, Flask, Django
-
-**DevOps:** Git, Docker, Linux, AWS
 
 ---
 
